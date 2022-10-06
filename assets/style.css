@@ -2,12 +2,12 @@
 
 :root {
   font-size: 100%;
-
-  --custom: 20;
-  --primary-color: hsl(var(--custom), 100%, 26%);
+   color: hsl(206, 100%, 91%);
+  --custom: 209;
+  --primary-color: hsl(var(--custom), 77%, 43%);
   --headline: hsla(210, 11%, 15%, 1);
   --paragrafo: hsla(210, 9%, 31%, 1);
-  --brand: hsla(calc(var(--custom) - 22), 23%, 89%, 1);
+  --brand: hsl(calc(var(--custom) - 3), 100%, 91%);
   --brand-lg: hsla(180, 14%, 97%);
   --brand-lg-2: hsl(calc(var(--custom) + 10), 14%, 97%);
   --brand-dark: hsl(var(--custom), 100%, 14%);
