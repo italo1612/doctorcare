@@ -2,7 +2,6 @@
 
 :root {
   font-size: 100%;
-   color: hsl(206, 100%, 91%);
   --custom: 209;
   --primary-color: hsl(var(--custom), 77%, 43%);
   --headline: hsla(210, 11%, 15%, 1);
